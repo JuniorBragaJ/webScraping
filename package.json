@@ -1,0 +1,27 @@
+{
+  "name": "webscraping",
+  "version": "1.0.0",
+  "description": "Created by Junior Braga",
+  "main": "main.js",
+  "scripts": {
+    "test": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuniorBragaJ/webScraping.git"
+  },
+  "keywords": [
+    "webscraping",
+    "crawler"
+  ],
+  "author": "Junior Braga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JuniorBragaJ/webScraping/issues"
+  },
+  "homepage": "https://github.com/JuniorBragaJ/webScraping#readme",
+  "dependencies": {
+    "file-system": "^2.2.2",
+    "puppeteer": "^10.2.0"
+  }
+}
