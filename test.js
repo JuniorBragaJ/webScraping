@@ -42,6 +42,7 @@ const fs = require('fs');
                 await mainPage.waitForTimeout(2000);
                 console.log(x)
                 await mainPage.click(`#content > div:nth-child(7) > a:nth-child(${x})`);
+                await mainPage.waitForTimeout(1500);
                 let allPages = await browser.pages();
                 allPages[2].bringToFront();
                 await allPages[2].waitForTimeout(2000);

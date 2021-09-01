@@ -1,5 +1,107 @@
 [
   {
+    "codigo": "2670192",
+    "entidade": "Câmara de Vereadores de São José",
+    "dataPublicacao": "06/10/2020",
+    "titulo": "PORTARIA Nº 185/2020"
+  },
+  {
+    "codigo": "2666986",
+    "entidade": "Câmara de Vereadores de São José",
+    "dataPublicacao": "02/10/2020",
+    "titulo": "PORTARIA Nº 180/2020"
+  },
+  {
+    "codigo": "2657119",
+    "entidade": "Câmara de Vereadores de São José",
+    "dataPublicacao": "28/09/2020",
+    "titulo": "PORTARIA Nº 174/2020"
+  },
+  {
+    "codigo": "2657117",
+    "entidade": "Câmara de Vereadores de São José",
+    "dataPublicacao": "28/09/2020",
+    "titulo": "PORTARIA Nº 173/2020"
+  },
+  {
+    "codigo": "2638806",
+    "entidade": "Câmara de Vereadores de São José",
+    "dataPublicacao": "11/09/2020",
+    "titulo": "PORTARIA Nº 159/2020"
+  },
+  {
+    "codigo": "2638804",
+    "entidade": "Câmara de Vereadores de São José",
+    "dataPublicacao": "11/09/2020",
+    "titulo": "PORTARIA Nº 158/2020"
+  },
+  {
+    "codigo": "2638814",
+    "entidade": "Câmara de Vereadores de São José",
+    "dataPublicacao": "11/09/2020",
+    "titulo": "PORTARIA Nº 161/2020"
+  },
+  {
+    "codigo": "2638816",
+    "entidade": "Câmara de Vereadores de São José",
+    "dataPublicacao": "11/09/2020",
+    "titulo": "PORTARIA Nº 162/2020"
+  },
+  {
+    "codigo": "2612849",
+    "entidade": "Câmara de Vereadores de São José",
+    "dataPublicacao": "20/08/2020",
+    "titulo": "PORTARIA Nº 148/2020"
+  },
+  {
+    "codigo": "2612856",
+    "entidade": "Câmara de Vereadores de São José",
+    "dataPublicacao": "20/08/2020",
+    "titulo": "PORTARIA Nº 150/2020"
+  },
+  {
+    "codigo": "2609033",
+    "entidade": "Câmara de Vereadores de São José",
+    "dataPublicacao": "18/08/2020",
+    "titulo": "PORTARIA Nº 146/2020"
+  },
+  {
+    "codigo": "2609023",
+    "entidade": "Câmara de Vereadores de São José",
+    "dataPublicacao": "18/08/2020",
+    "titulo": "PORTARIA Nº 141/2020"
+  },
+  {
+    "codigo": "2609031",
+    "entidade": "Câmara de Vereadores de São José",
+    "dataPublicacao": "18/08/2020",
+    "titulo": "PORTARIA Nº 144/2020"
+  },
+  {
+    "codigo": "2609032",
+    "entidade": "Câmara de Vereadores de São José",
+    "dataPublicacao": "18/08/2020",
+    "titulo": "PORTARIA Nº 145/2020"
+  },
+  {
+    "codigo": "2590257",
+    "entidade": "Câmara de Vereadores de São José",
+    "dataPublicacao": "05/08/2020",
+    "titulo": "PORTARIA Nº 126/2020"
+  },
+  {
+    "codigo": "2590264",
+    "entidade": "Câmara de Vereadores de São José",
+    "dataPublicacao": "05/08/2020",
+    "titulo": "PORTARIA Nº 128/2020"
+  },
+  {
+    "codigo": "2590266",
+    "entidade": "Câmara de Vereadores de São José",
+    "dataPublicacao": "05/08/2020",
+    "titulo": "PORTARIA Nº 129/2020"
+  },
+  {
     "codigo": "2590278",
     "entidade": "Câmara de Vereadores de São José",
     "dataPublicacao": "05/08/2020",
@@ -12,10 +114,28 @@
     "titulo": "PORTARIA Nº 121/2020"
   },
   {
+    "codigo": "2569448",
+    "entidade": "Câmara de Vereadores de São José",
+    "dataPublicacao": "20/07/2020",
+    "titulo": "RESOLUÇÃO Nº. 607, DE 15 DE JULHO DE 2020."
+  },
+  {
     "codigo": "2553982",
     "entidade": "Câmara de Vereadores de São José",
     "dataPublicacao": "08/07/2020",
     "titulo": "PORTARIA Nº 116/2020"
+  },
+  {
+    "codigo": "2437128",
+    "entidade": "Câmara de Vereadores de São José",
+    "dataPublicacao": "14/04/2020",
+    "titulo": "PORTARIA Nº 089/2020"
+  },
+  {
+    "codigo": "2435922",
+    "entidade": "Câmara de Vereadores de São José",
+    "dataPublicacao": "13/04/2020",
+    "titulo": "PORTARIA Nº 081/2020"
   },
   {
     "codigo": "2435921",
@@ -24,10 +144,22 @@
     "titulo": "PORTARIA Nº 080/2020"
   },
   {
-    "codigo": "2435922",
+    "codigo": "2435924",
     "entidade": "Câmara de Vereadores de São José",
     "dataPublicacao": "13/04/2020",
-    "titulo": "PORTARIA Nº 081/2020"
+    "titulo": "PORTARIA Nº 082/2020"
+  },
+  {
+    "codigo": "2435925",
+    "entidade": "Câmara de Vereadores de São José",
+    "dataPublicacao": "13/04/2020",
+    "titulo": "PORTARIA Nº 083/2020"
+  },
+  {
+    "codigo": "2425822",
+    "entidade": "Câmara de Vereadores de São José",
+    "dataPublicacao": "01/04/2020",
+    "titulo": "RESOLUÇÃO Nº. 593, DE 31 DE MARÇO DE 2020."
   },
   {
     "codigo": "2405986",
@@ -46,137 +178,5 @@
     "entidade": "Câmara de Vereadores de São José",
     "dataPublicacao": "13/03/2020",
     "titulo": "PORTARIA Nº 071/2020"
-  },
-  {
-    "codigo": "2398477",
-    "entidade": "Câmara de Vereadores de São José",
-    "dataPublicacao": "11/03/2020",
-    "titulo": "PORTARIA Nº 065/2020"
-  },
-  {
-    "codigo": "2398478",
-    "entidade": "Câmara de Vereadores de São José",
-    "dataPublicacao": "11/03/2020",
-    "titulo": "PORTARIA Nº 066/2020"
-  },
-  {
-    "codigo": "2398480",
-    "entidade": "Câmara de Vereadores de São José",
-    "dataPublicacao": "11/03/2020",
-    "titulo": "PORTARIA Nº 067/2020"
-  },
-  {
-    "codigo": "2393697",
-    "entidade": "Câmara de Vereadores de São José",
-    "dataPublicacao": "09/03/2020",
-    "titulo": "PORTARIA N° 063/2020"
-  },
-  {
-    "codigo": "2386613",
-    "entidade": "Câmara de Vereadores de São José",
-    "dataPublicacao": "04/03/2020",
-    "titulo": "RESOLUÇÃO Nº. 570, DE 02 DE MARÇO DE 2020."
-  },
-  {
-    "codigo": "2385816",
-    "entidade": "Câmara de Vereadores de São José",
-    "dataPublicacao": "03/03/2020",
-    "titulo": "PORTARIA N° 056/2020"
-  },
-  {
-    "codigo": "2344399",
-    "entidade": "Câmara de Vereadores de São José",
-    "dataPublicacao": "06/02/2020",
-    "titulo": "PORTARIA N° 024/2020"
-  },
-  {
-    "codigo": "2344400",
-    "entidade": "Câmara de Vereadores de São José",
-    "dataPublicacao": "06/02/2020",
-    "titulo": "PORTARIA N° 025/2020"
-  },
-  {
-    "codigo": "2303747",
-    "entidade": "Câmara de Vereadores de São José",
-    "dataPublicacao": "08/01/2020",
-    "titulo": "PORTARIA N° 003/2020"
-  },
-  {
-    "codigo": "2250617",
-    "entidade": "Câmara de Vereadores de São José",
-    "dataPublicacao": "04/12/2019",
-    "titulo": "PORTARIA N° 260/2019"
-  },
-  {
-    "codigo": "2223560",
-    "entidade": "Câmara de Vereadores de São José",
-    "dataPublicacao": "12/11/2019",
-    "titulo": "PORTARIA N° 251/2019"
-  },
-  {
-    "codigo": "2217550",
-    "entidade": "Câmara de Vereadores de São José",
-    "dataPublicacao": "06/11/2019",
-    "titulo": "PORTARIA N° 246/2019"
-  },
-  {
-    "codigo": "2211260",
-    "entidade": "Câmara de Vereadores de São José",
-    "dataPublicacao": "31/10/2019",
-    "titulo": "LEI N.º 5.794, DE 23 DE OUTUBRO DE 2019."
-  },
-  {
-    "codigo": "2206913",
-    "entidade": "Câmara de Vereadores de São José",
-    "dataPublicacao": "29/10/2019",
-    "titulo": "PORTARIA N° 240/2019"
-  },
-  {
-    "codigo": "2206914",
-    "entidade": "Câmara de Vereadores de São José",
-    "dataPublicacao": "29/10/2019",
-    "titulo": "PORTARIA N°241/2019"
-  },
-  {
-    "codigo": "2193294",
-    "entidade": "Câmara de Vereadores de São José",
-    "dataPublicacao": "15/10/2019",
-    "titulo": "NOTA DE ESCLARECIMENTO N 010/2019 - ANÁLISE DE DESEMPENHO - PP 017/2019"
-  },
-  {
-    "codigo": "2190540",
-    "entidade": "Câmara de Vereadores de São José",
-    "dataPublicacao": "11/10/2019",
-    "titulo": "PORTARIA N° 232/2019"
-  },
-  {
-    "codigo": "2166299",
-    "entidade": "Câmara de Vereadores de São José",
-    "dataPublicacao": "20/09/2019",
-    "titulo": "PORTARIA Nº 224/2019"
-  },
-  {
-    "codigo": "2144959",
-    "entidade": "Câmara de Vereadores de São José",
-    "dataPublicacao": "03/09/2019",
-    "titulo": "PORTARIA Nº 222/2019"
-  },
-  {
-    "codigo": "2127590",
-    "entidade": "Câmara de Vereadores de São José",
-    "dataPublicacao": "19/08/2019",
-    "titulo": "PORTARIA N° 213/2019"
-  },
-  {
-    "codigo": "2125500",
-    "entidade": "Câmara de Vereadores de São José",
-    "dataPublicacao": "16/08/2019",
-    "titulo": "PORTARIA Nº 207/2019"
-  },
-  {
-    "codigo": "2125504",
-    "entidade": "Câmara de Vereadores de São José",
-    "dataPublicacao": "16/08/2019",
-    "titulo": "PORTARIA Nº 208/2019"
   }
 ]
