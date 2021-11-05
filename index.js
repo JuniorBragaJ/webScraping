@@ -1,5 +1,5 @@
 
-const str = "Eu gosto de192387 batata com fermento"
+const str = "Eu gosto de 192387 segunda terceiro"
 
 let matches = str.match(/\d+/g);
 
